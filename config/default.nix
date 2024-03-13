@@ -30,6 +30,9 @@
       lualine = {
         enable = true;
       };
+      gitblame = {
+        enable = true;
+      };
       nvim-colorizer = {
         enable = true;
       };
